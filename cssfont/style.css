@@ -1,170 +1,105 @@
 div {
-	width: 25px;
-	height:90px;
+	width: 150px;
+	height:150px;
 	position: absolute;
-}
-.box1{
-	top: 40px;
-	left: 100px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
+	
 }
 .box2{
-	top: 135px;
-	left: 100px;
+	width: 60px;
+	height:60px;
+	top: 60px;
+	left:130px;
+	border-radius: 0 50px 50px 0;
 	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
 }
 .box3{
-	width: 90px;
-	height:25px;
-	top: 30px;
-	left: 125px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-
+	width: 80px;
+	height: 80px;
+	top: 160PX;
+	left:130PX;
+	border-radius: 0 32px 0 0;
+	background-color: black;
 }
 .box4{
-		width: 90px;
-	height:25px;
-	top: 120px;
-	left: 125px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
+	top:40px;
+	left:250px;
+	width: 0;
+	height:0;
+	border-left: 55px solid transparent;
+	border-right: 55px solid transparent;
+	border-bottom: 200px solid rgb(0, 0, 0);
+
 }
 .box5{
-	top: 40px;
-	left: 215px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
+	width:100px;
+	height: 25px;
+	top: 125px;
+	left: 255px;
+	background-color: white;
 }
 .box6{
-		top: 135px;
-	left: 180px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-	transform: rotate(-45deg);
+	top:40px;
+	left:395px;
+	width: 100px;
+	height:200px;
+	background-color: black;
+	
+
 }
 .box7{
-	top: 40px;
-	left: 275px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box8{
-	top: 135px;
-	left: 275px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box9{
-	width: 90px;
-	height:25px;
-	top: 30px;
-	left: 300px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
+	width: 25px;
+	height: 225px;
+	top: 25px;
+	left : 435px;
+	background-color: white;
+	transform: rotate(-25deg);
 
+}
+
+.box9{
+	width: 200px;
+	height: 200px;
+	top: 40px;
+	left: 530px;
+	border-radius: 50%;
+	background-color: rgb(0, 0, 0);
 }
 .box10{
-		width: 90px;
-	height:25px;
-	top: 120px;
-	left: 300px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box11{
-	top: 40px;
-	left: 390px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box12{
-		top: 135px;
-	left: 390px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box13{
-	top: 40px;
-	left: 450px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box14{
-		top: 135px;
-	left: 450px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box15{
-		width: 90px;
-	height:25px;
-	top: 70px;
-	left: 460px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-	transform: rotate(65deg);
-}
-.box16{	width: 90px;
-	height:25px;
-	top: 160px;
-	left: 500px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-	transform: rotate(65deg);
-}
-.box17{
-	top: 40px;
-	left: 575px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box18{
-		top: 135px;
-	left: 575px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-
-}
-.box19{
-	top: 40px;
-	left: 640px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box20{
-	top: 135px;
-	left: 640px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box21{ 	width: 90px;
-	height:25px;
-	top: 215px;
-	left: 665px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-	}
-.box22{width: 90px;
-	height:25px;
-	top: 30px;
-	left: 665px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box23{
-	top: 135px;
-	left: 755px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
-}
-.box24{
-	width: 45px;
-	height:25px;
+	width:125px;
+	height: 25px;
 	top: 125px;
-	left: 710px;
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px 15px 15px 15px;
+	left: 660px;
+	background-color: white;
 }
+.box11{  width:100px;
+	height: 50px;
+	top: 155px;
+	left: 790px;
+	background-color: black;
+ }
+.box12{width:100px;
+	height: 50px;
+	top: 75px;
+	left: 790px;
+	background-color: black;
+}
+.box13{ 	width: 85px;
+	height:70px;
+	top: 45px;
+	left:940px;
+	border-radius: 50px 0px 0px 50px;
+	background-color: rgb(0, 0, 0);
+ }
+ .box14{
+ 		width: 85px;
+	height:70px;
+	top: 150px;
+	left:945px;
+	border-radius: 0 50px 50px 0;
+	background-color: rgb(0, 0, 0);
+ }
+ .text{ font-family: "Helvetica"
+  left: 150px;
+ top: 250px;
+ width: 550px
+ }
