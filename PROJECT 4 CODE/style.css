@@ -1,0 +1,29 @@
+.leftblock {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 300px;
+  font-family: 'Helvetica', mono-space;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.rightblock {
+  position: absolute;
+  top: 260px;
+  left: 340px;
+  width: 300px;
+  font-family: 'Anton', sans-serif;
+  font-size: 36px;
+    font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
