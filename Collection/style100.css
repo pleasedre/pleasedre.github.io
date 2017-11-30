@@ -1,0 +1,27 @@
+.fit {
+  max-width: 100%;
+  max-height: 100%;
+}
+.enter{
+	position: absolute;
+	width: 140px;
+	height:50px;
+	background-color: transparent;
+	top: 420px;
+	left: 140px;
+	transition: all .5s linear;
+	font-size: 30pt;
+	border: 5px solid white;
+	border-radius: 15px;
+	color: white;
+	font-family: 'Black Ops One', cursive;
+
+
+}
+.enter:hover{
+	background-color: white;
+	border: 5px solid black;
+	color: red;
+
+
+}

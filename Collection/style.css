@@ -1,0 +1,13 @@
+
+.jordansign { 
+	 position: absolute;
+  max-width:40%;
+  max-height:40%
+  z-index: 100%;
+  top: 8%;
+  left: 25%;
+  margin: -100px 0 0 -100px;;
+}
+.shoe {
+	font-family: 'Black Ops One', cursive;
+}

@@ -1,0 +1,63 @@
+img.resize1 {
+	position: absolute;
+  max-width:50%;
+  max-height:50%
+  z-index: 100%;
+  top: 15%;
+  left: 25%;
+  margin: -100px 0 0 -100px;;
+}
+img.resize2 {
+	position: absolute;
+  max-width:50%;
+  max-height:50%
+  z-index: 100%;
+  top: 80%;
+  left: 25%;
+  margin: -100px 0 0 -100px;;
+}
+img.resize3 {
+	position: absolute;
+  max-width:50%;
+  max-height:50%
+  z-index: 100%;
+  top: 96%;
+  left: 23%;
+  margin: -100px 0 0 -100px;;
+}
+img.resize4 {
+	position: absolute;
+  max-width:50%;
+  max-height:50%
+  z-index: 130%;
+  top: 115%;
+  left: 25%;
+  margin: -100px 0 0 -100px;
+  
+}
+img.resize5 {
+	position: absolute;
+  max-width:50%;
+  max-height:50%
+  z-index: 100%;
+  top: 160%;
+  left: 22%;
+  margin: -100px 0 0 -100px;
+  
+}
+.shoe {font-family: 'Black Ops One', cursive;
+text-decoration: none;}
+a{ text-decoration: none }
+.rightblock{
+  position: absolute;
+  top: 49px;
+  left: 1000px;
+  width: 200px;
+  font-family: 'Permanent Marker', cursive;  
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 19px;
+  text-align: left;
+  height: 50%;
+  overflow: scroll;
+}
