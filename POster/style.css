@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+}
+img.resize1{
+  max-width:50%;
+  max-height:50%;
+  /*height: 75vh;*/
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 40px;
+}
+.text1{ padding-left: 60px;
+	color: white;
+	font-family: futura;
+	font-size: 1.3vw;
+	}
+img.resize2{ max-width:5%;
+  max-height:5%;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.resize3:hover {
+	width: 100px;
+	height: 100px;
+}
+.resize3{ 
+width: 30px;
+height: 30px;
+background-color: white;
+border-radius: 50%;
+position: relative;
+margin: 0 auto; 
+transition: all 0.25s}
+.text2{
+color: white;
+	font-family: futura;
+	font-size: 2vw;
+  margin-left: auto;
+    margin-right: auto;
+    width: 28em
+}
+
+@media(max-width: 550px) {
+  img.resize1{max-width: 100vw;
+    max-height: 100vh;
+   margin-top: 40px;
+    width: 100vw;
+    height:auto;}
+
+  .text1{ padding-left: 60px;
+  color: white;
+  font-family: futura;
+  font-size: 15px;
+  }
+ .text2{ padding-left: 40px;
+  color: white;
+  font-family: futura;
+  font-size: 15px;
+  }
+.resize3{ 
+width: 25px;
+height: 25px;
+background-color: transparent;
+border-radius: 50%;
+position: relative;
+margin: 0 auto; 
+transition: all 0.25s}
+.resize3:hover {
+  width: 25px;
+  height: 25px;}
+.resize3:after{ padding-top: 80px;
+content: "ABOUT";
+color:white;
+  font-family: futura; 
+text-align: center;
+width: 100vw;
+}
+
+  
+}
