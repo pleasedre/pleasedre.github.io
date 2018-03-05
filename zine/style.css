@@ -1,0 +1,62 @@
+html{ background-image: url("yhbackground copy.jpg")
+   background-size: cover;
+background-repeat: no-repeat; 
+position: absolute; }
+body{ position: absolute; }
+img{position: absolute;}
+
+.r1{
+ padding-top: 0px;
+	padding-left: 10px; 
+    width: 118px; 
+    height: 150px; 
+    }
+.r2{
+	padding-top: 40px;
+	padding-left: 200px; 
+    max-width: 250px; 
+    max-height: 125px; 
+}
+.r3{position: absolute;
+	padding-top:170px;
+	padding-left: 50px;
+    max-width: 100px; 
+    max-height: 150px;  
+}
+.r4{position: absolute;
+	padding-top:260px;
+	padding-left: 200px; 
+    max-width: 75px; 
+    max-height: 125px;  
+}
+.r5{position: absolute;
+	padding-top:350px;
+	padding-left: 0px;
+    max-width: 250px; 
+    max-height: 115px; 
+} 
+.r6{position: absolute;
+	padding-top:400px;
+	padding-left: 210px;
+    max-width: 250px; 
+    max-height: 115px; 
+} 
+.r7{position: absolute;
+	padding-top:550px;
+	padding-left: 80px;
+    max-width: 250px; 
+    max-height: 115px; 
+} 
+.r8{position: absolute;
+	padding-top:700px;
+	padding-left: 250px;
+    max-width: 100px; 
+    max-height: 150px;  
+}
+.r9{position: absolute;
+	padding-top:700px;
+	padding-left: 0px;
+    max-width: 250px; 
+    max-height: 115px; 
+} 
+}

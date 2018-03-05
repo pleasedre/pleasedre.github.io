@@ -1,0 +1,57 @@
+html{ background-image: url("bbbackground copy.jpg")
+   background-size: cover;
+background-repeat: no-repeat; 
+position: absolute; }
+body{ position: absolute; }
+img{position: absolute;}
+
+.r1{
+ padding-top: 50px;
+	padding-left: 260px; 
+    width: 118px; 
+    height: 150px; 
+    }
+.r2{
+	padding-top: 40px;
+	padding-left: 25px; 
+    max-width: 225px; 
+    max-height: 100px; 
+}
+.r3{position: absolute;
+	padding-top:200px;
+	padding-left: 10px;
+    max-width: 150px; 
+    max-height: 175px;  
+}
+.r4{position: absolute;
+	padding-top:515px;
+	padding-left: 10px; 
+    max-width: 150px; 
+    max-height: 200px;  
+}
+.r5{position: absolute;
+	padding-top:425px;
+	padding-left: 175px;
+    max-width: 250px; 
+    max-height: 115px; 
+    z-index: 1
+} 
+.r6{position: absolute;
+	padding-top:185px;
+	padding-left: 203px;
+    max-width: 250px; 
+    max-height: 115px; 
+    z-index: -1
+} 
+.r7{position: absolute;
+	padding-top:365px;
+	padding-left: 0px;
+    max-width: 250px; 
+    max-height: 115px; 
+} 
+.r8{position: absolute;
+	padding-top:380px;
+	padding-left: 250px;
+    max-width: 150px; 
+    max-height: 200px;  
+}

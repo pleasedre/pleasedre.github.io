@@ -1,0 +1,64 @@
+html{ background-image: url("rwbackground copy.jpg")
+   background-size: cover;
+background-repeat: no-repeat; 
+position: absolute; }
+body{ position: absolute; }
+img{position: absolute;}
+
+.r2{
+    padding-top: 167px;
+    padding-left: 0px; 
+    max-width: 200px; 
+    max-height: 75px; 
+}
+.r1{
+ padding-top: 20px;
+	padding-left: 50px; 
+    width: 100px; 
+    height: 150px; 
+    }
+
+.r3{position: absolute;
+	padding-top:170px;
+	padding-left: 280px;
+    max-width: 85px; 
+    max-height: 135px;  
+}
+.r4{position: absolute;
+	padding-top:280px;
+	padding-left: 5px; 
+    max-width: 150px; 
+    max-height: 175px;  
+}
+.r5{position: absolute;
+	padding-top:150px;
+	padding-left: 170px;
+    max-width: 220px; 
+    max-height: 85px; 
+    z-index: -1;
+} 
+.r6{position: absolute;
+	padding-top:345px;
+	padding-left: 225px;
+    max-width: 225px; 
+    max-height: 90px; 
+} 
+.r7{position: absolute;
+	padding-top:430px;
+	padding-left: 90px;
+    max-width: 200px; 
+    max-height: 65px; 
+} 
+.r8{position: absolute;
+	padding-top:470px;
+	padding-left: 250px;
+    max-width: 150px; 
+    max-height: 200px;  
+}
+.r9{position: absolute;
+	padding-top:525px;
+	padding-left: 0px;
+    max-width: 225px; 
+    max-height: 90px; 
+} 
+}
