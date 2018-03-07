@@ -1,8 +1,8 @@
 html{ background-image: url("yhbackground copy.jpg")
-   background-size: cover;
-background-repeat: no-repeat; 
-position: absolute; }
-body{ position: absolute; }
+   background-size: contain;
+background-repeat: repeat; 
+ }
+body{ }
 img{position: absolute;}
 
 .r1{
@@ -59,4 +59,25 @@ img{position: absolute;}
     max-width: 250px; 
     max-height: 115px; 
 } 
+p{text-shadow:0 0 4px black;
+	color: white;
+	z-index: 1;
+	position: absolute;
 }
+.p1{ width:140px;
+padding-left: 260px;
+padding-top:460px; 
+font-family: 'Source Code Pro', monospace;
+font-size: 12px;}
+
+.p2{width:170px;
+padding-left:50px;
+padding-top:100px; 
+font-family: 'Source Code Pro', monospace;
+font-size: 12px;}
+
+}
+
+
+
+

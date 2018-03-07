@@ -37,8 +37,8 @@ img{position: absolute;}
     z-index: 1
 } 
 .r6{position: absolute;
-	padding-top:185px;
-	padding-left: 203px;
+	padding-top:195px;
+	padding-left: 250px;
     max-width: 250px; 
     max-height: 115px; 
     z-index: -1
@@ -54,4 +54,30 @@ img{position: absolute;}
 	padding-left: 250px;
     max-width: 150px; 
     max-height: 200px;  
+}
+.r9{
+     position: absolute;
+    padding-top:290px;
+    padding-left: 70px;
+    max-width: 300px; 
+    z-index: 1;
+}
+
+p{text-shadow:0 0 4px black;
+    color: white;
+    z-index: 1;
+    position: absolute;
+}
+.p2{ width:280px;
+padding-left: 130px;
+padding-top:520px; 
+font-family: 'Source Code Pro', monospace;
+font-size: 12px;}
+
+.p1{width:150px;
+padding-left:120px;
+padding-top:0px; 
+font-family: 'Source Code Pro', monospace;
+font-size: 10px;}
+
 }

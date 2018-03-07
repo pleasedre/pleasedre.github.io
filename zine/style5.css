@@ -1,0 +1,27 @@
+}
+body{ }
+
+.r1{ 
+    width: 335px; 
+    height: 370px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    }
+ p{
+    color: black;
+    z-index: 1;
+    position: absolute; 
+    padding-left: 32px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+
+}
+a{
+   color:inherit;
+   text-decoration: none;
+}
