@@ -1,0 +1,59 @@
+html{ background-image: url("goshabackground.jpg")
+   background-size: contain;
+background-repeat: no-repeat; 
+position: absolute; }
+body{ position: absolute; }
+img{position: absolute;}
+
+.r1{
+ padding-top: 50px;
+	padding-left: 260px; 
+    width: 100px; 
+    height: 150px; 
+    }
+.r2{
+	padding-top: 40px;
+	padding-left: 25px; 
+    max-width: 200px; 
+    max-height: 100px; 
+}
+.r3{position: absolute;
+	padding-top:200px;
+	padding-left: 10px;
+    max-width: 150px; 
+    max-height: 175px;  
+}
+.r4{position: absolute;
+	padding-top:450px;
+	padding-left: 10px; 
+    max-width: 150px; 
+    max-height: 200px;
+}
+.r5{
+    padding-top: 626px;
+    padding-left: 25px; 
+    max-width: 200px; 
+    max-height: 100px; 
+}
+.r6{position: absolute;
+    padding-top:780px;
+    padding-left: 10px;
+    max-width: 150px; 
+    max-height: 175px;  
+}
+.r7{position: absolute;
+    padding-top:970px;
+    padding-left: 10px; 
+    max-width: 200px; 
+    max-height: 200px;
+}
+
+p{text-shadow:0 0 4px black;
+    color: white;
+    z-index: 1;
+    position: absolute; 
+width: 220px;
+padding-left:165px;
+padding-top: 160px;
+font-family: 'Source Code Pro', monospace;
+font-size: 13px}
