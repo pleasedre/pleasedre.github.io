@@ -66,15 +66,15 @@ img{position: absolute;}
     padding-left: 35px;
     max-width: 300px; 
 }
-p{text-shadow:0 0 10px black;
+p{text-shadow:0 0 4px black;
     color: white;
     z-index: 1;
     position: absolute;
 font-weight: black}
 
-.p1{ width:260px;
-padding-left: 130px;
-padding-top:0px; 
+.p1{ width:240px;
+padding-left: 150px;
+padding-top:-10px; 
 font-family: 'Source Code Pro', monospace;
 font-size: 12px;
 color: white;
