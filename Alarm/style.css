@@ -1,0 +1,164 @@
+body { 
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.hour {
+  position: absolute;
+  top: 10vw;
+  left: 10vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  background-image: url(g1.svg);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;
+  animation-name: swapImage;
+  animation-duration: 60s;
+  animation-iteration-count: infinite;  
+}
+
+.minute {
+  position: absolute;
+  top: 10vw;
+  left: 40vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 20px;
+  background-image: url(bttle1.svg);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-name: swapImageA;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;  
+}
+
+.second {
+  position: absolute;
+  top: 10vw;
+  left: 70vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;  
+  background-image: url(cup1.svg);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  animation-name: swapImageB;
+  animation-duration: .6s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes swapImage {
+  0% {
+    background-image: url(g1.svg);
+  }
+  10% {
+    background-image: url(g2.svg);
+  }
+  20% {
+    background-image: url(g3.svg);
+  }  
+  30% {
+    background-image: url(g4.svg);
+  }  
+  40% {
+    background-image: url(g5.svg);
+  }  
+  50% {
+    background-image: url(g6.svg);
+  }
+  60% {
+    background-image: url(g7.svg);
+  }
+  70% {
+    background-image: url(g8.svg);
+  }  
+  80% {
+    background-image: url(g9.svg);
+  }  
+  90% {
+    background-image: url(g10.svg);
+  }  
+  100% {
+    background-image: url(g10.svg);
+  }    
+}
+@keyframes swapImageA {
+  0% {
+    background-image: url(bttle1.svg);
+  }
+  10% {
+    background-image: url(bttle2.svg);
+  }
+  20% {
+    background-image: url(bttle3.svg);
+  }  
+  30% {
+    background-image: url(bttle4.svg);
+  }  
+  40% {
+    background-image: url(bttle5.svg);
+  }  
+  50% {
+    background-image: url(bttle6.svg);
+  }
+  60% {
+    background-image: url(bttle7.svg);
+  }
+  70% {
+    background-image: url(bttle8.svg);
+  }  
+  80% {
+    background-image: url(bttle9.svg);
+  }  
+  90% {
+    background-image: url(bttle10.svg);
+  }  
+  100% {
+    background-image: url(bttle10.svg);
+  }    
+}
+@keyframes swapImageB {
+  0% {
+    background-image: url(cup1.svg);
+  }
+  10% {
+    background-image: url(cup2.svg);
+  }
+  20% {
+    background-image: url(cup3.svg);
+  }  
+  30% {
+    background-image: url(cup4.svg);
+  }  
+  40% {
+    background-image: url(cup5.svg);
+  }  
+  50% {
+    background-image: url(cup6.svg);
+  }
+  60% {
+    background-image: url(cup7.svg);
+  }
+  70% {
+    background-image: url(cup8.svg);
+  }  
+  80% {
+    background-image: url(cup9.svg);
+  }  
+  90% {
+    background-image: url(cup10.svg);
+  }  
+  100% {
+    background-image: url(cup10.svg);
+  }    
+}
